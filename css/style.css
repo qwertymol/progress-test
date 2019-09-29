@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding: 0;
+} 
+#canvas-container {
+	width: 100%;
+} 
+#canvas {
+	margin: 0 auto;
+	display: block;
+}
+
